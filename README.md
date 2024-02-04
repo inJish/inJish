@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inJish
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Promp designing and Prompt Engineering
+- 🌱 I’m currently learning Prompt designing and Prompt Engineering
 - 💞️ I’m looking to collaborate on AI data training
 - 📫 How to reach me XXX
 - 😄 Pronouns: He/Him
